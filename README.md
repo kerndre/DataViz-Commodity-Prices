@@ -5,6 +5,8 @@
 ---
 As part of the module 'Data Visualization and Visual Analytics' at the Kiel University of Applied Science we had the task to visualize a topic of our choice. I decided to compare commodity prices over a time span from the year 2000 until 2022.
 
+Due to the fact that Github's notebook viewer does not execute any embedded Javascript code, presumably for security reasons, altair charts do not appear in Github notebook views, because they are rendered via javascript.
+
 ## Potential Improvements
 1) Since the euro values (especially the average values for the various individual goods) are not comparable, it would have made sense to normalize them, e.g. to the first value in the time series. Then the relative changes would still be visible and the irrelevant level would fade into the background. 
 2) Naturally, this topic was very time series-heavy, which is ok. Maybe some aspects could have been deepened. For example, in the case of the Ukraine war, we could have looked at the prices of the individual crops in more detail. There are probably interesting insights to be gained here.
