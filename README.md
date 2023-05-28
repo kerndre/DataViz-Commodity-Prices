@@ -3,7 +3,8 @@
 ## WS 2022/23
 #### 10.01.2023
 ---
-# Potential Improvements
+This project 
+## Potential Improvements
 1) Since the euro values (especially the average values for the various individual goods) are not comparable, it would have made sense to normalize them, e.g. to the first value in the time series. Then the relative changes would still be visible and the irrelevant level would fade into the background. 
 2) Naturally, this topic was very time series-heavy, which is ok. Maybe some aspects could have been deepened. For example, in the case of the Ukraine war, we could have looked at the prices of the individual crops in more detail. There are probably interesting insights to be gained here.
 ---
