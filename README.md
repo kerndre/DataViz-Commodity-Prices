@@ -1,6 +1,6 @@
 # DataViz-Commodity-Prices
-# Data Visualization and Visual Analytics
-# WS 2022/23
+## Data Visualization and Visual Analytics
+## WS 2022/23
 #### 10.01.2023
 ---
 # Potential Improvements
