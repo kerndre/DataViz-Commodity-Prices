@@ -7,8 +7,9 @@
 1) Since the euro values (especially the average values for the various individual goods) are not comparable, it would have made sense to normalize them, e.g. to the first value in the time series. Then the relative changes would still be visible and the irrelevant level would fade into the background. 
 2) Naturally, this topic was very time series-heavy, which is ok. Maybe some aspects could have been deepened. For example, in the case of the Ukraine war, we could have looked at the prices of the individual crops in more detail. There are probably interesting insights to be gained here.
 ---
-##Einleitung
-Die Inflationsrate in Deutschland war im Jahr 2022 partiell so hoch wie zuletzt vor etwa 40 Jahren. Dabei lag sie im März bei 7,3%, im Oktober sogar bei 10,4%. Die wirtschaftlichen Nachwehen der COVID-19-Pandemie und der letztes Jahr begonnene Ukraine-Krieg trieben die Inflationsrate in die Höhe. Der erschwerte Export von Getreideprodukten aus der Ukraine, der drohende Import-Stopp von russichem Öl und Gas, sowie Lieferengpässe durch unterbrochene Lieferketten aufgrund der Corona-Pandemie haben die  Preise von Waren und Rohstoffen und die Inflationsrate stark steigen lassen. <br>
+## Einleitung
+Die Inflationsrate in Deutschland war im Jahr 2022 partiell so hoch wie zuletzt vor etwa 40 Jahren. Dabei lag sie im März bei 7,3%, im Oktober sogar bei 10,4%. Die wirtschaftlichen Nachwehen der COVID-19-Pandemie und der letztes Jahr begonnene Ukraine-Krieg trieben die Inflationsrate in die Höhe. Der erschwerte Export von Getreideprodukten aus der Ukraine, der drohende Import-Stopp von russichem Öl und Gas, sowie Lieferengpässe durch unterbrochene Lieferketten aufgrund der Corona-Pandemie haben die  Preise von Waren und Rohstoffen und die Inflationsrate stark steigen lassen.
+
 ### Was wird unter Inflation verstanden?
 Wörtllich bedeutet Inflation "Aufblähung" der Preise. Im Alltag des Verbrauchers spiegelt sich dies in gestiegen Preisen, der Verbraucher also weniger für gleiches Geld kaufen kann. 
 ---
