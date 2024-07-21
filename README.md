@@ -10,27 +10,24 @@ Due to the fact that Github's notebook viewer does not execute any embedded Java
 ## Potential Improvements
 1) Since the euro values (especially the average values for the various individual goods) are not comparable, it would have made sense to normalize them, e.g. to the first value in the time series. Then the relative changes would still be visible and the irrelevant level would fade into the background. 
 2) Naturally, this topic was very time series-heavy, which is ok. Maybe some aspects could have been deepened. For example, in the case of the Ukraine war, we could have looked at the prices of the individual crops in more detail. There are probably interesting insights to be gained here.
+3) 
 ---
-## Einleitung
-Die Inflationsrate in Deutschland war im Jahr 2022 partiell so hoch wie zuletzt vor etwa 40 Jahren. Dabei lag sie im März bei 7,3%, im Oktober sogar bei 10,4%. Die wirtschaftlichen Nachwehen der COVID-19-Pandemie und der letztes Jahr begonnene Ukraine-Krieg trieben die Inflationsrate in die Höhe. Der erschwerte Export von Getreideprodukten aus der Ukraine, der drohende Import-Stopp von russichem Öl und Gas, sowie Lieferengpässe durch unterbrochene Lieferketten aufgrund der Corona-Pandemie haben die  Preise von Waren und Rohstoffen und die Inflationsrate stark steigen lassen.
+## Introduction
+The inflation rate in Germany in 2022 was partly as high as it had last been around 40 years ago. It was 7.3% in March and even reached 10.4% in October. The economic aftereffects of the COVID-19 pandemic and the Ukraine war that began last year drove the inflation rate up. The difficult export of grain products from Ukraine, the looming import stop of Russian oil and gas, and supply bottlenecks due to interrupted supply chains caused by the pandemic significantly increased the prices of goods and raw materials and the inflation rate.
 
-### Was wird unter Inflation verstanden?
+### What is understood by inflation?
+Literally, inflation means the "swelling" of prices. In the consumer's daily life, this is reflected in increased prices, meaning the consumer can buy less for the same amount of money.
 
-Wörtllich bedeutet Inflation "Aufblähung" der Preise. Im Alltag des Verbrauchers spiegelt sich dies in gestiegen Preisen, der Verbraucher also weniger für gleiches Geld kaufen kann. 
-
----
-### Ziel dieser Arbeit
-
-Das Ziel dieser Arbeit ist es einen Vergleich der Preisentwicklungen zwischen 2022 und anderen 'Krisen-Jahren' im Zeitraum des Datensatzes (2000-2022) herzustellen. Dazu wurde sich für die Jahre der Weltfinanzkrise 2007/08 entschieden. Untersucht werden soll, ob sich trotz Unterschiedlicher Umstände Ähnlichkeiten in den Verläufen der Preisentwicklungen entdecken lassen. Diese Ergebnisse wären äußerst nützlich, um eventuell bevorstehende Preisschwankungen frühzeitig zu erkennen und entsprechende Maßnahmen zu ergreifen.
+### Aim of this paper
+The aim of this paper is to compare price developments between 2022 and other 'crisis years' within the dataset period (2000-2022). The years of the global financial crisis 2007/08 were chosen for this purpose. The goal is to investigate whether, despite different circumstances, similarities in the course of price developments can be discovered. These findings would be extremely useful in potentially recognizing upcoming price fluctuations early and taking appropriate measures.
 
 ---
-## Zusammenfassung
-### Erkenntnisse:
-In dieser Arbeit wurde gezeigt, dass die beiden verglichenden Krisen (Ukraine-Krieg 2022, Weltfinanzkrise 2007/08) zwar zu einem Anstieg der Warenpreise führten. Werden die beiden "Schock"-Momente jedoch direkt miteinander verglichen, zeigt sich, dass ihnen unterschiedliche Anstiege der Preise folgten. War 2007/08 ein langsamerer aber gleichmäßigerer Anstieg zu sehen, erfolgte dieser 2022 eher schlagartig. Beide Male unterlagen industrielle Metalle und Getreide den größten Schwankungen. Die Preise für Lebenvieh und Softs waren dabei jeweils regelrecht unberührt von den Ereignissen. Interesant war, dass trotz der starken Schwankungen industrieller Metalle, die Preise in den beiden untersuchten Jahren nahezu gleich waren, obwohl beide Male starke Anstiege zu verzeichnen waren.
+## Summary
+### Findings:
+This paper showed that the two compared crises (Ukraine War 2022, Global Financial Crisis 2007/08) both led to an increase in commodity prices. However, when the two "shock" moments are directly compared, it is evident that they were followed by different price increases. While 2007/08 saw a slower but more consistent rise, the increase in 2022 was more abrupt. Both times, industrial metals and grains experienced the greatest fluctuations. Prices for livestock and softs were virtually unaffected by the events. Interestingly, despite the strong fluctuations in industrial metals, the prices in the two years studied were nearly the same, even though strong increases were recorded both times.
 
-### Reflektion:
-
-Generell ist der Versuch die Auswirkungen zweier Krisen zu unterschiedlichen Zeit unter unterschiedlichen Bedingungen zu vergleichen, ein schwieriges Vorhaben ist. Es müssen stets mehr Bedingungen und Umstände geprüft werden, als die bloße Preisentwicklung. Hinzu kommen Schwierigkeiten bedingt durch den Datensatz. So erlaubte dieser keine Einsicht darüber, wie die Preisunterschiede innerhalb der einzelnen Warenkategorien aussah. Hier bietet sich eine Frage für zukünftige Forschung, indem bspw. untersucht werden kann, ob bestimmte industrielle Metalle für die starken preislichen Schwankungen verantworlich sind. Auch sollte geschaut werden, welchen Preisanstieg die Krisen selbst verursachen, anstatt die Werte für die gesamten Jahre zu vergleichen (der Krieg 2022 begann zumindestens Ende Februar. Die Krise 2007 begann aber erst im August des Jahres). Auch sollte der generellen Anstieg seit 2000 mit einkalkuliert werden. Es müsste also ein preisliches Grundniveau für einen Zeitabschnitt berechnet werden, und von diesem aus dann die Anstiege mit Beginn der jeweiligen Krise. Alles in allem bietet diese Arbeit aber einen guten Überblick und eine grobe Nachvollziehbarkeit über die Auswirkungen der beiden untersuchten Krisen auf die hier dargestellten Waren.
+### Reflection:
+Generally, attempting to compare the impacts of two crises at different times under different conditions is a challenging endeavor. More conditions and circumstances need to be examined than just the price development. Additionally, there are difficulties due to the dataset. It did not allow insight into how price differences within individual commodity categories looked. This offers a question for future research, such as whether specific industrial metals are responsible for the strong price fluctuations. It should also be considered what price increase the crises themselves caused, instead of comparing the values for the entire years (the war in 2022 began at the end of February, while the crisis in 2007 began only in August of that year). The general increase since 2000 should also be taken into account. A base price level for a time period should be calculated, and from this, the increases with the onset of each crisis. All in all, however, this paper provides a good overview and rough traceability of the impacts of the two studied crises on the commodities presented here.
 
 ---
 ### Quellen:
